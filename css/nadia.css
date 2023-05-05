@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+}
+
+.body {
+    color: #ffff;
+    width: 1080px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    text-decoration: none;
+}
+
+.backmenu {
+    margin-top: 15%;
+    margin-left: 15%;
+    text-decoration: none;
+    width: auto;   
+}
+
+.sizeicon {
+    height: 100px;
+    width: 100px;
+    text-decoration: none;
+    color: black;
+}
+
+.gambar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nadiaimg {
+    padding-top: 5%;
+    width: 800px;
+    height: 800px;
+}
+
+.judul {
+    align-items: center;
+    justify-content: center;
+    padding-top: 5%;
+    text-align: center;
+}
+
+.nad {
+    font-size: 500%;
+    color: #ffb3c6;
+}
+
+.teks {
+    font-size: 200%;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-bottom: 5%;
+}

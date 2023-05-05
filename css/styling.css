@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+}
+
+.body {
+    color: #ffff;
+    width: 1080px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    text-decoration: none;
+}
+
+.backmenu {
+    margin-top: 15%;
+    margin-left: 15%;
+    text-decoration: none;
+    width: auto;   
+}
+
+.sizeicon {
+    height: 100px;
+    width: 100px;
+    text-decoration: none;
+    color: black;
+}
+
+.conteinerjudul {
+    margin-left: 15%;
+    margin-top: 5%;
+}
+
+.headatas {
+    font-size: 500%;
+    color: #ffb3c6;
+}
+
+.list1 {
+    display: flex;
+    margin-top: 5%;
+    background-color: #ffb3c6;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    border: none;
+    border-radius: 15px;
+    align-items: center;
+}
+
+.nadiaicon {
+    width: 120px;
+    height: 120px;
+    justify-content: left;
+    margin-left: 4%;
+}
+
+.nadia {
+    color: #ffff;
+    font-size: 300%;
+    padding-left: 5%;
+}
+
+.nadbutton {
+    color: #ffff;
+    height: 100px;
+    width: 100px;
+    margin-top: 10%;
+    margin-left: 280%;
+}

@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.body {
+    font-family: 'Poppins', sans-serif;
+    color: #ffff;
+    width: 1080px;
+
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.conteiner {
+    margin-top: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 50px;
+}
+
+.sunflower{
+    width: 500px;
+    height: 500px;
+    align-content: center;
+
+}
+
+.judul{
+    margin-top: 20px;
+    margin-left: 17%;
+    margin-right: 17%;
+    text-align: center;
+    justify-content: center;    
+}
+
+.pinki{
+    font-size: 400%;
+    color: #ffb3c6;
+}
+
+.bawah{
+    font-size: 180%;
+    color: #333;
+    font-weight: 500;
+}
+
+.bagianbawah {
+    margin-top: 30%;
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: center;
+    display: content;
+    justify-content: center;  
+} 
+
+.pancing {
+    font-size: 180%;
+    color: #333;
+}
+
+.tombol {
+    margin-top: 5%;
+    text-align: center;
+    justify-content: center; 
+    color: #ffff;
+}
+
+.kirito {
+    border: none;
+    outline: none;
+    transition: ease-in-out 0,6s;
+    cursor: pointer;
+}
+
+.sugoi {
+    background-color: #ffb3c6;
+    color: #ffff;
+    font-size: 220%;
+    position: relative;
+    padding: 1.2em 8.2em;
+    font-family: Poppins;
+    font-weight: 700;
+    text-decoration: none;
+    border-radius: 2.7em;
+    border-style: none;
+}
