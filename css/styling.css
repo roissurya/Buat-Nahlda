@@ -6,12 +6,10 @@
     text-decoration: none;
 }
 
-.body {
+.arial {
     color: #ffff;
-    width: 1080px;
-    justify-content: center;
-    text-align: center;
-    align-items: center;
+    width: 540px;
+    height: 1170px;
     text-decoration: none;
 }
 
@@ -23,8 +21,8 @@
 }
 
 .sizeicon {
-    height: 100px;
-    width: 100px;
+    height: 50px;
+    width: 50px;
     text-decoration: none;
     color: black;
 }
@@ -35,7 +33,7 @@
 }
 
 .headatas {
-    font-size: 500%;
+    font-size: 250%;
     color: #ffb3c6;
 }
 
@@ -45,38 +43,40 @@
     background-color: #ffb3c6;
     margin-left: 15%;
     margin-right: 15%;
-    padding-top: 3%;
-    padding-bottom: 3%;
+    padding-top: 2%;
+    padding-bottom: 2%;
     border: none;
-    border-radius: 15px;
+    border-radius: 8px;
     align-items: center;
 }
 
 .nadiaicon {
-    width: 120px;
-    height: 120px;
+    width: 60px;
+    height: 60px;
     justify-content: left;
     margin-left: 4%;
 }
 
 .nadia {
     color: #ffff;
-    font-size: 300%;
+    font-size: 150%;
     padding-left: 5%;
 }
 
 .nadbutton {
     color: #ffff;
-    height: 100px;
-    width: 100px;
+    height: 50px;
+    width: 50px;
     margin-top: 10%;
     margin-left: 280%;
 }
 
 .mutbutton {
     color: #ffff;
-    height: 100px;
-    width: 100px;
+    height: 50px;
+    width: 50px;
     margin-top: 10%;
     margin-left: 317%;
 }
+
+@media sc

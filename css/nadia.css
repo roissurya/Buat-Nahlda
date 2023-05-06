@@ -6,12 +6,9 @@
     text-decoration: none;
 }
 
-.body {
-    color: #ffff;
-    width: 1080px;
-    justify-content: center;
-    text-align: center;
-    align-items: center;
+.ler {
+    width: 540px;
+    height: 1170px;
     text-decoration: none;
 }
 
@@ -23,8 +20,8 @@
 }
 
 .sizeicon {
-    height: 100px;
-    width: 100px;
+    height: 50px;
+    width: 50px;
     text-decoration: none;
     color: black;
 }
@@ -37,8 +34,8 @@
 
 .nadiaimg {
     padding-top: 5%;
-    width: 800px;
-    height: 800px;
+    width: 400px;
+    height: 400px;
 }
 
 .judul {
@@ -49,12 +46,12 @@
 }
 
 .nad {
-    font-size: 500%;
+    font-size: 250%;
     color: #ffb3c6;
 }
 
 .teks {
-    font-size: 200%;
+    font-size: 100%;
     margin-left: 15%;
     margin-right: 15%;
     padding-bottom: 5%;
