@@ -9,7 +9,6 @@
 .arial {
     color: #ffff;
     width: 540px;
-    height: 1170px;
     text-decoration: none;
 }
 
@@ -79,4 +78,10 @@
     margin-left: 317%;
 }
 
-@media sc
+.dilahbutton {
+    color: #ffff;
+    height: 50px;
+    width: 50px;
+    margin-top: 10%;
+    margin-left: 300%;
+}
