@@ -44,7 +44,7 @@
 .judul {
     align-items: center;
     justify-content: center;
-    padding-top: 5%;
+    padding-top: 3%;
     text-align: center;
 }
 
@@ -58,4 +58,5 @@
     margin-left: 15%;
     margin-right: 15%;
     padding-bottom: 5%;
+    text-align: left;
 }
