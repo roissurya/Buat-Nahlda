@@ -8,7 +8,7 @@
 .body {
     font-family: 'Poppins', sans-serif;
     color: #ffff;
-    width: 540px;
+    width: 360px;
     justify-content: center;
     text-align: center;
     align-items: center;
@@ -23,8 +23,8 @@
 }
 
 .sunflower{
-    width: 250px;
-    height: 250px;
+    width: 200px;
+    height: 200px;
     align-content: center;
 }
 
@@ -37,12 +37,12 @@
 }
 
 .pinki{
-    font-size: 200%;
+    font-size: 150%;
     color: #ffb3c6;
 }
 
 .bawah{
-    font-size: 90%;
+    font-size: 70%;
     color: #333;
     font-weight: 500;
 }
@@ -57,7 +57,7 @@
 } 
 
 .pancing {
-    font-size: 90%;
+    font-size: 70%;
     color: #333;
 }
 
@@ -78,7 +78,7 @@
 .sugoi {
     background-color: #ffb3c6;
     color: #ffff;
-    font-size: 110%;
+    font-size: 90%;
     position: relative;
     padding: 1.2em 8.2em;
     font-family: Poppins;
